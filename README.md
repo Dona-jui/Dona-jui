@@ -1,4 +1,4 @@
-<h1 align="center">Hii, This is <a href="https://github.com/Dona-jui">Dona Roy<a>
+<h1 align="center">Hi, This is <a href="https://github.com/Dona-jui">Dona Roy<a>
   <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 
 <h2>About Me! 😎</h2>
@@ -12,10 +12,10 @@
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=dona-jui&label=Profile%20views&color=0e75b6&style=plastic" alt="Dona-jui" /> </p>
 
 <hr>
-
+<!---
 <h1 align="center">Skills I have! 🤸‍♂</h1>
 <Br>
-<!---
+
 |![](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Supervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Unsupervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Web%20Scraping-red?style=for-the-badge)|![](https://img.shields.io/badge/Dashboards-red?style=for-the-badge)|
 |---|---|---|---|---|
 |![](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Cleaning-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Analysis-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
