@@ -1,4 +1,4 @@
-<h1 align="center">I'm <a href="https://github.com/Dona-jui">Dona Roy<a>
+<h1 align="center">Hii, This is <a href="https://github.com/Dona-jui">Dona Roy<a>
   <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 
 <h2>About Me! 😎</h2>
@@ -25,7 +25,7 @@
 
 
   
-
+<!---
 <h3 align="left">Programming Languages 💻 :</h3>
 
 <p align="left"> 
@@ -57,8 +57,9 @@
 <img src="https://img.shields.io/badge/Git-00dd00?style=for-the-badge&logo=git&logoColor=white" height="25">
 &nbsp;
 
-
 </p>
+--->
+
 
 <!---
 <details>
