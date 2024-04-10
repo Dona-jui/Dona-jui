@@ -11,8 +11,9 @@
 - ⚡ Fun fact: I like reading, painting...and coding of course
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=dona-jui&label=Profile%20views&color=0e75b6&style=plastic" alt="Dona-jui" /> </p>
 
-<hr>
+
 <!---
+<hr>
 <h1 align="center">Skills I have! 🤸‍♂</h1>
 <Br>
 
