@@ -3,7 +3,8 @@
 
 <h2>About Me! 😎</h2>
 
-- ✍🏻: Pursuing B.Tech in CSE at JISCE with graduation in 2024.
+- ✍🏻: Pursuing M.Tech in CSE(IS) at NITK with graduation in 2026 
+- 🎓: Completed B.Tech in CSE at JISCE with graduation in 2024.
 - 🌱: Exploring new technologies and developing programming insights.🧠💻🤖
 - 🔭: I’m currently working on Data Visualization and small ML projects.
 - 🤔: I’m looking for help with anything I am currently learning! 😅
