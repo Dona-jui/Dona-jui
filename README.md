@@ -13,7 +13,7 @@ class DonaRoy(torch.nn.Module):
             "M.Tech CSE (Information Security) @ NITK Surathkal (2024–2026)",
             "B.Tech CSE @ JIS College of Engineering (2020–2024)"
         ]
-        self.role = "Aspiring Researcher | Tech Enthusiast"
+        self.role = "Information Security | AI/ML Enthusiast"
         self.day_skills = [
             "Java", "Python", "Tensorflow", "Pytorch", "Javascript"
         ]
@@ -21,7 +21,7 @@ class DonaRoy(torch.nn.Module):
             "DSA", "Full-Stack Experiments", "Side Projects", "Research Papers"
         ]
         self.creative_skills = [
-            "Fiction Writing", "Painting", "Photography", "Music"
+            "Fiction", "Painting", "Photography", "Music"
         ]
         self.links = {
             "email": "donaroy5889@gmail.com",
