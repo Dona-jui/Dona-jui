@@ -52,6 +52,21 @@
 </p>
 
 ---
+<!-- Optional: GitHub Stats Section (Uncomment if needed) -->
+<!--
+<details>
+  <summary><b>📈 GitHub Stats</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Dona-jui&theme=cobalt&show_icons=true&count_private=true"/>
+    <br><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dona-jui&theme=dark&hide_border=true"/>
+    <br><br>
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Dona-jui&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=8"/>
+  </p>
+</details>
+---
+-->
 
 ## 📬 Let's Connect
 
