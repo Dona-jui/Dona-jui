@@ -8,7 +8,6 @@ import torch
 class DonaRoy(torch.nn.Module):
     def __init__(self):
         super(DonaRoy, self).__init__()
-
         self.name = "Dona Roy"
         self.education = [
             "M.Tech CSE (Information Security) @ NITK Surathkal (2024–2026)",
@@ -16,15 +15,9 @@ class DonaRoy(torch.nn.Module):
         ]
         self.role = "Information Security | AI/ML Enthusiast"
 
-        self.day_skills = [
-            "Java", "Python", "Tensorflow", "Pytorch", "Javascript"
-        ]
-        self.night_skills = [
-            "DSA", "Full-Stack Experiments", "Side Projects", "Research Papers"
-        ]
-        self.creative_skills = [
-            "Fiction", "Painting", "Photography", "Music"
-        ]
+        self.day_skills = [ "Java", "Python", "Tensorflow", "Pytorch", "Javascript" ]
+        self.night_skills = [ "DSA", "Full-Stack Experiments", "Side Projects", "Research Papers" ]
+        self.creative_skills = [ "Fiction", "Painting", "Photography", "Music" ]
 
         self.links = {
             "email": "donaroy5889@gmail.com",
@@ -40,7 +33,6 @@ class DonaRoy(torch.nn.Module):
         if inspiration > 0.5:
             return f"Engaged in: {', '.join(self.creative_skills)}"
 
-# Example instance
 dona = DonaRoy()
 ```
 
