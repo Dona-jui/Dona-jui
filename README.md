@@ -8,12 +8,14 @@ import torch
 class DonaRoy(torch.nn.Module):
     def __init__(self):
         super(DonaRoy, self).__init__()
+
         self.name = "Dona Roy"
         self.education = [
             "M.Tech CSE (Information Security) @ NITK Surathkal (2024–2026)",
             "B.Tech CSE @ JIS College of Engineering (2020–2024)"
         ]
         self.role = "Information Security | AI/ML Enthusiast"
+
         self.day_skills = [
             "Java", "Python", "Tensorflow", "Pytorch", "Javascript"
         ]
@@ -23,6 +25,7 @@ class DonaRoy(torch.nn.Module):
         self.creative_skills = [
             "Fiction", "Painting", "Photography", "Music"
         ]
+
         self.links = {
             "email": "donaroy5889@gmail.com",
             "github": "https://github.com/Dona-jui",
