@@ -17,7 +17,7 @@ class DonaRoy(torch.nn.Module):
 
         self.day_skills = [ "Java", "Python", "Tensorflow", "Pytorch", "Javascript" ]
         self.night_skills = [ "DSA", "Full-Stack Experiments", "Side Projects", "Research Papers" ]
-        self.creative_skills = [ "Fiction", "Painting", "Photography", "Music" ]
+        self.creative_skills = [ "Fiction", "Painting", "Photography" ]
 
         self.links = {
             "email": "donaroy5889@gmail.com",
